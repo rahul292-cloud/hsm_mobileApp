@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "369269737587",
+    "firebase_url": "https://fir-messaging-hsm.firebaseio.com",
+    "project_id": "fir-messaging-hsm",
+    "storage_bucket": "fir-messaging-hsm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369269737587:android:f11425e7f19bdc8ea64206",
+        "android_client_info": {
+          "package_name": "com.example.housing_society_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "369269737587-m1t7ul8pu9bi1ufa4m7aum800dnbrj4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLWnZNGGtM5fjpP0A_0uVh4sbb85qtwmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "369269737587-m1t7ul8pu9bi1ufa4m7aum800dnbrj4q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
